@@ -2,7 +2,7 @@
 A view which can add sticker and zoom,drag,delete it
 
 ###screenshots
-![](https://github.com/wuapnjie/StickerView/blob/master/screenshots/stickerview.gif)
+![](https://github.com/nilopc-learning-android/StickerView/blob/master/screenshots/stickerview.gif)
 
 ###usage
 StickerView extends ImageView
